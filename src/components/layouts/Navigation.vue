@@ -92,7 +92,6 @@ export default {
         menuItems = [
           { title: 'Home', icon: 'dashboard', link: '/' },
           { title: 'About', icon: 'question_answer', link: '/about' },
-          { title: 'Contact', icon: 'person', link: `/contact` },
           { title: 'Profile', icon: 'face', link: `/profile/${this.user.id}` }
         ]
       }

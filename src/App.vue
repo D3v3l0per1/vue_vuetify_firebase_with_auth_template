@@ -3,7 +3,7 @@ y<template>
 
     <Navigation />
 
-    <router-view></router-view>
+    <router-view class="mt-5"></router-view>
 
     <Footer />
 
